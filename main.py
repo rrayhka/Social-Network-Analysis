@@ -5,6 +5,7 @@ import community.community_louvain as community_louvain
 import matplotlib.cm as cm
 import numpy as np
 
+df = pd.read_csv("data.csv")
 # Membaca data dari df
 connections = []
 
