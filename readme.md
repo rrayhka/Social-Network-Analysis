@@ -1,62 +1,55 @@
-# Social-Network-Analysis
+# Social Network Analysis
 
-Social-Network-Analysis adalah proyek penelitian yang bertujuan untuk mendeteksi komunitas besar dalam angkatan kuliah menggunakan konsep teori graph, yaitu Social Network Analysis. Proyek ini merupakan implementasi dari algoritma Louvain untuk mendeteksi struktur komunitas dalam sebuah jaringan sosial.
+**Social Network Analysis** is a research project aimed at detecting large communities within college cohorts using graph theory concepts, specifically through Social Network Analysis. This project implements the Louvain algorithm to identify community structures in a social network.
 
-## Daftar Isi
+## Table of Contents
 
-- [Tentang Proyek](#tentang-proyek)
-- [Fitur Utama](#fitur-utama)
-- [Prasyarat](#prasyarat)
-- [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
-- [Kontak](#kontak)
+- [About the Project](#about-the-project)
+- [Main Features](#main-features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
 
-## Tentang Proyek
+## About the Project
 
-Proyek ini dibuat untuk tujuan riset sederhana dalam menganalisis jaringan sosial di lingkungan akademis. Dengan menggunakan algoritma Louvain, proyek ini mampu mendeteksi dan memvisualisasikan komunitas-komunitas yang terbentuk dalam jaringan sosial mahasiswa.
+This project was developed for the purpose of analyzing social networks in an academic environment. By utilizing the Louvain algorithm, the project effectively detects and visualizes communities formed within student social networks.
 
-Saat ini, repository ini berisi hasil akhir visualisasi jaringan sosial yang dihitung menggunakan Python. Kode Python yang digunakan untuk menghitung dan mendeteksi komunitas belum disertakan dalam repository ini, namun akan ditambahkan pada pengembangan selanjutnya.
+Currently, this repository contains the final results of social network visualizations calculated using Python. The Python code used for community detection has not yet been included in this repository but will be added in future updates.
 
-**Catatan:** Dataset yang digunakan dalam proyek ini tidak disertakan di repository karena bersifat privat.
+**Note:** The datasets used in this project are private and are not included in the repository.
 
-## Fitur Utama
+## Main Features
 
-- Implementasi algoritma Louvain untuk deteksi komunitas.
-- Visualisasi jaringan sosial menggunakan HTML, CSS, dan JavaScript.
-- Perhitungan jaringan sosial dilakukan menggunakan Python (kode belum disertakan).
+- Implementation of the Louvain algorithm for community detection.
+- Visualization of social networks using HTML, CSS, and JavaScript.
+- Community calculations performed using Python.
 
-## Prasyarat
+## Prerequisites
 
-- Web browser (Google Chrome, Firefox, Brave, dll.)
-- Text editor atau IDE untuk modifikasi kode (Opsional)
+- A web browser (Google Chrome, Firefox, Brave, etc.)
+- A text editor or IDE for code modification (optional)
 
-## Instalasi
+## Installation
 
-Untuk menjalankan proyek ini secara lokal:
+To run this project locally:
 
-1. Clone repository ini:
+1. Clone this repository:
 
     ```bash
-    git clone https://github.com/username/Social-Network-Analysis.git
+    git clone https://github.com/rrayhka/Social-Network-Analysis.git
     cd Social-Network-Analysis
     ```
 
-2. Buka file `index.html` di browser Anda untuk melihat visualisasi jaringan sosial.
+2. Open the `index.html` file in your browser to view the social network visualization.
 
-## Penggunaan
+## Usage
 
-Setelah membuka file `index.html`, Anda akan melihat representasi visual dari jaringan sosial berdasarkan dataset yang digunakan (tidak disertakan dalam repository ini). Anda bisa memodifikasi file `network.js` untuk mengubah konfigurasi atau memasukkan dataset Anda sendiri.
+After opening the `index.html` file, you will see a visual representation of the social network based on the dataset used (not included in this repository). You can modify the `network.js` file to change the configuration or include your own dataset.
 
-## Pengembangan Selanjutnya
+## Contact
 
-- **Penambahan Kode Python:** Kode Python yang digunakan untuk perhitungan dan deteksi komunitas akan ditambahkan dalam pengembangan selanjutnya.
-- **Dokumentasi Lebih Lanjut:** Penjelasan tentang cara menggunakan kode Python untuk mengolah dataset baru dan menghasilkan visualisasi jaringan.
-
-
-## Kontak
-
-Jika Anda memiliki pertanyaan atau saran, silakan hubungi saya melalui:
+If you have any questions or suggestions, please feel free to reach out to me via:
 
 - Email: [khyar075@gmail.com](mailto:khyar075@gmail.com)
-- GitHub: [@rrayhka](https://github.com/rrayhka)
-
+- Facebook: [Mohammad Habibul Akhyar](https://www.facebook.com/profile.php?id=100072858091271)
