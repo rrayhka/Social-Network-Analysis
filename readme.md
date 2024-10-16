@@ -15,7 +15,7 @@
 
 This project was developed for the purpose of analyzing social networks in an academic environment. By utilizing the Louvain algorithm, the project effectively detects and visualizes communities formed within student social networks.
 
-Currently, this repository contains the final results of social network visualizations calculated using Python. The Python code used for community detection has not yet been included in this repository but will be added in future updates.
+Currently, this repository contains the final results of social network visualizations calculated using Python. 
 
 **Note:** The datasets used in this project are private and are not included in the repository.
 
